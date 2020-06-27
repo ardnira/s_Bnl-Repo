@@ -124,6 +124,7 @@ Partial Public Class fPrint_Bayar
    End Sub
 
    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+      'nambahi coba gawe ngetes GITHUP, CUMAN KOMENTER IKI
       rp = New Print_Bayar
       rp.Lref.Text = "Ref: 635345"
       rp.lCust.Text = "nama custku"
